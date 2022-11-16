@@ -1,17 +1,19 @@
 {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-      "location": {
-        "block": {
-          "blocks": [
-            "minecraft:tall_grass"
-          ]
-        }
-      },
-      "flags": {
-        "is_sneaking": true
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "location": {
+      "block": {
+        "blocks": [
+          "minecraft:large_fern",
+          "minecraft:rose_bush",
+          "minecraft:peony",
+          "minecraft:tall_grass"
+        ]
       }
+    },
+    "flags": {
+      "is_sneaking": true
     }
   }
-  
+}
