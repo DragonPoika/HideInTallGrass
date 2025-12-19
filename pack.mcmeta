@@ -1,7 +1,11 @@
 {
-    "pack": {
-      "pack_format": 40,
-      "description": "Makes you hide in tall grass when sneaking. \n By ToastedDragon"
-    }
+  "pack": {
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94,
+    "description": "Makes you hide in tall grass when sneaking. \nBy ToastedDragon"
+  }
 }
   
